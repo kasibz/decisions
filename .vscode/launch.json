@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbsoluteNum",
+            "request": "launch",
+            "mainClass": "AbsoluteNum",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "DiscountAndRevenue",
+            "request": "launch",
+            "mainClass": "DiscountAndRevenue",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "PosNegZero",
+            "request": "launch",
+            "mainClass": "PosNegZero",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "TelephoneBill",
+            "request": "launch",
+            "mainClass": "TelephoneBill",
+            "projectName": "Decision Answers_75edea00"
+        },
+        {
+            "type": "java",
+            "name": "ValidTriangle",
+            "request": "launch",
+            "mainClass": "ValidTriangle",
+            "projectName": "Decision Answers_75edea00"
+        }
+    ]
+}
